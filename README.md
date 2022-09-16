@@ -1,10 +1,11 @@
-Introduction
+# Introduction
+
 “Time series models are used to forecast future events based on previous events that have been observed (and data collected) at regular time intervals.”
 
 We will be taking a small forecasting problem and try to solve it till the end learning time series forecasting alongside.
 
 
-What is Time Series analysis?
+# What is Time Series analysis?
 
 Time series forecasting is a technique for the prediction of events through a sequence of time. The technique is used across many fields of study, from geology to behaviour to economics. The techniques predict future events by analyzing the trends of the past, on the assumption that future trends will hold similar to historical trends.
 
