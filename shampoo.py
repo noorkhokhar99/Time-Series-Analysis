@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 21 17:25:55 2019
 
-@author: nageshsinghchauhan
-"""
 #The program forecast the sales of Shampoo from a retail shop
 import os
 import warnings
