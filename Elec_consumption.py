@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 22 18:31:26 2019
-
-@author: nageshsinghchauhan
-"""
 
 #The program forecast the consumption of electricity in coming future
 import warnings
