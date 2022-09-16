@@ -4,3 +4,6 @@
 
 The repository contains time series analysis on household electricity consumption.
 Please read this article on [https://www.youtube.com/c/pyresearch]() or my notebook on [kaggle](https://www.kaggle.com/nageshsingh/predict-electricity-consumption).
+
+
+# Introduction
